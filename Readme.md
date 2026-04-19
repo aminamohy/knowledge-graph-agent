@@ -23,7 +23,7 @@ A conversational AI agent that stores, retrieves, and manages knowledge as a **g
 ##  System Architecture
 
 
-```
+
 ![System Architecture](./arch.png)
 ---
 
@@ -40,7 +40,7 @@ A conversational AI agent that stores, retrieves, and manages knowledge as a **g
 
 ### Routing Logic
 
-```
+
 classifier
     ├── chitchat / out_of_scope / agent_info  ──→  response → END
     └── add / edit / delete / inquire         ──→  cypher → executor
