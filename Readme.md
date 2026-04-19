@@ -24,7 +24,7 @@ A conversational AI agent that stores, retrieves, and manages knowledge as a **g
 
 
 ```
-![System Architecture](./arch.png)
+![System Architecture](https://github.com/aminamohy/knowledge-graph-agent/blob/main/arch.png)
 ---
 
 ##  AI System Design
